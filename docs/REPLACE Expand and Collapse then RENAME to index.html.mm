@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node COLOR="#000000" CREATED="1604346596826" ID="ID_925147151" MODIFIED="1604365180135" TEXT="Luke Maze (@InnovateAndDo)">
+<node COLOR="#000000" CREATED="1604346596826" ID="ID_925147151" MODIFIED="1604516351924" TEXT="Luke Maze (@InnovateAndDo)">
 <edge COLOR="#00b439" WIDTH="2"/>
 <font BOLD="true" NAME="SansSerif" SIZE="28"/>
 <node COLOR="#0033ff" CREATED="1604346877488" FOLDED="true" ID="ID_240509705" MODIFIED="1604365180134" POSITION="right" TEXT="About">
@@ -53,18 +53,18 @@
 <font NAME="SansSerif" SIZE="12"/>
 <icon BUILTIN="freemind_butterfly"/>
 </node>
-<node COLOR="#0033ff" CREATED="1604346851852" ID="ID_1899181288" MODIFIED="1604479643739" POSITION="left" TEXT="Digital Product Innovation &amp; Lean-Agile Delivery">
+<node COLOR="#0033ff" CREATED="1604346851852" FOLDED="true" ID="ID_1899181288" MODIFIED="1604516394556" POSITION="left" TEXT="Digital Product Innovation">
 <edge COLOR="#990000" STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="SansSerif" SIZE="28"/>
 <icon BUILTIN="launch"/>
-<node COLOR="#00b439" CREATED="1604348095868" ID="ID_1228422728" LINK="https://lukemaze.github.io/product" MODIFIED="1604361647610" TEXT="Product Blog">
+<node COLOR="#00b439" CREATED="1604348095868" ID="ID_1228422728" LINK="https://lukemaze.github.io/product" MODIFIED="1604516383985" TEXT="See &quot;Product Management&quot; tagged posts on InnovateAndDo blog">
 <edge COLOR="#111111" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
 </node>
-<node COLOR="#00b439" CREATED="1604347305979" FOLDED="true" ID="ID_1627537365" MODIFIED="1604365180135" TEXT="AGoodListener.org">
+<node COLOR="#00b439" CREATED="1604347305979" FOLDED="true" ID="ID_1627537365" MODIFIED="1604516392380" TEXT="AGoodListener.org an AI ChatBot for the mental health industry">
 <edge COLOR="#990000" STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
-<node COLOR="#990000" CREATED="1604347917451" ID="ID_1151388145" MODIFIED="1604361647616" TEXT="An AI ChatBot providing Gregorian talk therapy to the mental health industry">
+<node COLOR="#990000" CREATED="1604347917451" ID="ID_1151388145" MODIFIED="1604504855731" TEXT="Automated Gregorian talk therapy">
 <edge COLOR="#111111" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
 </node>
@@ -72,6 +72,15 @@
 <edge COLOR="#111111" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
 </node>
+</node>
+</node>
+<node COLOR="#0033ff" CREATED="1604346851852" FOLDED="true" ID="ID_590355437" MODIFIED="1604516411412" POSITION="left" TEXT="Lean-Agile Value Delivery">
+<edge COLOR="#990000" STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="SansSerif" SIZE="28"/>
+<icon BUILTIN="group"/>
+<node COLOR="#00b439" CREATED="1604348095868" ID="ID_1611201659" LINK="https://lukemaze.github.io/product" MODIFIED="1604516408648" TEXT="See &quot;Agile Delivery&quot; tagged posts on InnovateAndDo blog">
+<edge COLOR="#111111" STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
 </node>
 </node>
 <node COLOR="#0033ff" CREATED="1604349951766" FOLDED="true" ID="ID_1279856023" MODIFIED="1604365180135" POSITION="left" TEXT="HG Consulting, LLC">
