@@ -3,27 +3,6 @@
 <node COLOR="#000000" CREATED="1604346596826" ID="ID_925147151" MODIFIED="1604365180135" TEXT="Luke Maze (@InnovateAndDo)">
 <edge COLOR="#00b439" WIDTH="2"/>
 <font BOLD="true" NAME="SansSerif" SIZE="28"/>
-<node COLOR="#0033ff" CREATED="1604364035425" FOLDED="true" ID="ID_1752108967" MODIFIED="1604365180133" POSITION="right" TEXT="Contact">
-<edge STYLE="sharp_bezier" WIDTH="8"/>
-<font NAME="SansSerif" SIZE="28"/>
-<icon BUILTIN="kaddressbook"/>
-<node COLOR="#00b439" CREATED="1604362708112" ID="ID_727754996" LINK="mailto://lukemaze@gmail.com" MODIFIED="1604364074900" TEXT="E-Mail lukemaze@gmail.com">
-<edge STYLE="bezier" WIDTH="thin"/>
-<font NAME="SansSerif" SIZE="16"/>
-</node>
-<node COLOR="#00b439" CREATED="1604363310261" ID="ID_1798569094" LINK="tel://+16024928475" MODIFIED="1604364146864" TEXT="Phone +1 (602) 492-8475 ">
-<edge STYLE="bezier" WIDTH="thin"/>
-<font NAME="SansSerif" SIZE="16"/>
-</node>
-<node COLOR="#00b439" CREATED="1604362810809" ID="ID_687095445" LINK="https://wa.me/+16024928475" MODIFIED="1604364121875" TEXT="WhatsApp +16024928475">
-<edge STYLE="bezier" WIDTH="thin"/>
-<font NAME="SansSerif" SIZE="16"/>
-</node>
-<node COLOR="#00b439" CREATED="1604362719569" ID="ID_1941780609" LINK="https://calendly.com/lukemaze" MODIFIED="1604364025271" TEXT="Schedule a meeting via Calendly.com">
-<edge STYLE="bezier" WIDTH="thin"/>
-<font NAME="SansSerif" SIZE="16"/>
-</node>
-</node>
 <node COLOR="#0033ff" CREATED="1604346877488" FOLDED="true" ID="ID_240509705" MODIFIED="1604365180134" POSITION="right" TEXT="About">
 <edge COLOR="#990000" STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="SansSerif" SIZE="28"/>
@@ -49,11 +28,32 @@
 <font NAME="SansSerif" SIZE="16"/>
 </node>
 </node>
+<node COLOR="#0033ff" CREATED="1604364035425" FOLDED="true" ID="ID_1752108967" MODIFIED="1604365180133" POSITION="right" TEXT="Contact">
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="SansSerif" SIZE="28"/>
+<icon BUILTIN="kaddressbook"/>
+<node COLOR="#00b439" CREATED="1604362708112" ID="ID_727754996" LINK="mailto://lukemaze@gmail.com" MODIFIED="1604364074900" TEXT="E-Mail lukemaze@gmail.com">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1604363310261" ID="ID_1798569094" LINK="tel://+16024928475" MODIFIED="1604364146864" TEXT="Phone +1 (602) 492-8475 ">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1604362810809" ID="ID_687095445" LINK="https://wa.me/+16024928475" MODIFIED="1604364121875" TEXT="WhatsApp +16024928475">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1604362719569" ID="ID_1941780609" LINK="https://calendly.com/lukemaze" MODIFIED="1604364025271" TEXT="Schedule a meeting via Calendly.com">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
 <node CREATED="1604348256419" ID="ID_1396720515" MODIFIED="1604365120370" POSITION="right" TEXT="Powered by FreeMind | Copyright 2020">
 <font NAME="SansSerif" SIZE="12"/>
 <icon BUILTIN="freemind_butterfly"/>
 </node>
-<node COLOR="#0033ff" CREATED="1604346851852" FOLDED="true" ID="ID_1899181288" MODIFIED="1604365180135" POSITION="left" TEXT="Product Innovation">
+<node COLOR="#0033ff" CREATED="1604346851852" ID="ID_1899181288" MODIFIED="1604479643739" POSITION="left" TEXT="Digital Product Innovation &amp; Lean-Agile Delivery">
 <edge COLOR="#990000" STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="SansSerif" SIZE="28"/>
 <icon BUILTIN="launch"/>
@@ -72,16 +72,6 @@
 <edge COLOR="#111111" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
 </node>
-</node>
-</node>
-<node COLOR="#0033ff" CREATED="1604346893270" FOLDED="true" ID="ID_1291209520" MODIFIED="1604367398650" POSITION="left" TEXT="Lean-Agile Delivery">
-<edge COLOR="#990000" STYLE="sharp_bezier" WIDTH="8"/>
-<font NAME="SansSerif" SIZE="28"/>
-<icon BUILTIN="group"/>
-<node COLOR="#00b439" CREATED="1604348080861" ID="ID_1295826119" MODIFIED="1604361647608" TEXT="Agile Blog (coming soon)">
-<edge COLOR="#111111" STYLE="bezier" WIDTH="thin"/>
-<font NAME="SansSerif" SIZE="16"/>
-<icon BUILTIN="calendar"/>
 </node>
 </node>
 <node COLOR="#0033ff" CREATED="1604349951766" FOLDED="true" ID="ID_1279856023" MODIFIED="1604365180135" POSITION="left" TEXT="HG Consulting, LLC">
