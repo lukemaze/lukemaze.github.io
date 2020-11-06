@@ -1,0 +1,42 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "HG Consulting, LLC | InnovateAndDo",
+    "description": "",
+    "home_page_url": "https://lukemaze.github.io/lukemaze.github.io",
+    "feed_url": "https://lukemaze.github.io/lukemaze.github.io/feed.json",
+    "user_comment": "",
+    "icon": "https://lukemaze.github.io/lukemaze.github.io/media/website/HG-Consulting-2.jpg",
+    "author": {
+        "name": "Luke Maze"
+    },
+    "items": [
+        {
+            "id": "https://lukemaze.github.io/lukemaze.github.io/digital-product-innovation.html",
+            "url": "https://lukemaze.github.io/lukemaze.github.io/digital-product-innovation.html",
+            "title": "Digital Product Innovation",
+            "summary": "The purpose of software is to make users AWESOME at what they do.",
+            "content_html": "<p>The purpose of software is to make users AWESOME at what they do.</p>\n<p> </p>\n<p><a href=\"http://www.innovateanddo.com/lukemaze\">About Luke</a></p>\n<ul>\n<li>Two decades of Product Management wisdom</li>\n<li>Expert team facilitation</li>\n<li>Seasoned requirements elicitation</li>\n</ul>",
+            "author": {
+                "name": "Luke Maze"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-11-05T20:25:30-07:00",
+            "date_modified": "2020-11-06T13:17:11-07:00"
+        },
+        {
+            "id": "https://lukemaze.github.io/lukemaze.github.io/hg-consulting-llc-or-innovateanddo.html",
+            "url": "https://lukemaze.github.io/lukemaze.github.io/hg-consulting-llc-or-innovateanddo.html",
+            "title": "Lean-Agile Value Delivery",
+            "summary": "Build the right product. Build it right. And deliver as fast as possible.",
+            "content_html": "<p>Build the right product.  Build it right.  And deliver as fast as possible.</p>\n<p><a href=\"https://www.innovateanddo.com/lukemaze\" style=\"font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);\">About Luke</a></p>\n<p>Develop high performance leaders, empower self-organized team innovation, and deliver measurable business value.  Championing a transformation from traditional Waterfall to Lean-Agile at scale.</p>\n<ul>\n<li>Scrum</li>\n<li>Kanban</li>\n<li>Scaled Agile Framework (SAFe)</li>\n</ul>",
+            "author": {
+                "name": "Luke Maze"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-11-05T19:52:53-07:00",
+            "date_modified": "2020-11-06T13:34:43-07:00"
+        }
+    ]
+}
