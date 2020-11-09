@@ -1,14 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>HG Consulting, LLC | InnovateAndDo</title>
+    <title>Better, faster, cheper – InnovateAndDo</title>
     <link href="https://lukemaze.github.io/lukemaze.github.io/feed.xml" rel="self" />
     <link href="https://lukemaze.github.io/lukemaze.github.io" />
-    <updated>2020-11-06T13:34:43-07:00</updated>
+    <updated>2020-11-08T21:10:12-07:00</updated>
     <author>
         <name>Luke Maze</name>
     </author>
     <id>https://lukemaze.github.io/lukemaze.github.io</id>
 
+    <entry>
+        <title>HG Consulting, LLC</title>
+        <author>
+            <name>Luke Maze</name>
+        </author>
+        <link href="https://lukemaze.github.io/lukemaze.github.io/hg-consulting-llc.html"/>
+        <id>https://lukemaze.github.io/lukemaze.github.io/hg-consulting-llc.html</id>
+
+        <updated>2020-11-08T21:10:12-07:00</updated>
+            <summary>
+                <![CDATA[
+                    About Luke The brain of an engineer, the heart of a teacher, and&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><a href="http://www.innovateanddo.com/lukemaze">About Luke</a></p>
+<p class="break-words white-space-pre-wrap mb5 t-14 t-black--light t-normal">The brain of an engineer, the heart of a teacher, and the gut of an entrepreneur.</p>
+<p>Since 2001, this Arizona Limited Liability Company (LLC) has been building relationships across industries, developing innovative products in-house, or advising enterprises to deliver their products &amp; services better-faster-cheaper. We help good technology, and good technology companies, become great. (And yes, all companies are technology companies today. Yours too!) But HG Consulting also knows that not all problems require a new technical solution. In fact, sometimes removing features has a larger impact than adding another! Sometimes just explaining "why"​ is the silver bullet.</p>
+<p>Good companies manage Engineering. Great companies manage Product.</p>
+<p>We deliver products and product delivery solutions that MAKE THE USER AWESOME at what they do because we provide elegant solutions to complex problems. Traditional systems (and traditional solutions) became complicated over time - many moving parts - but they still followed the rules - complicated systems are still predictable (a.k.a. deterministic). Today, however, systems and solutions have become COMPLEX, and there is a big difference! Traditional management of a new complex system just does not work because complex systems exhibit "sensitive dependence on initial conditions,"​ which means that they are no longer predictable.</p>
+<dl class="overflow-hidden">
+<dt class="org-page-details__definition-term t-14 t-black t-bold">Arizona State Corporation Comission</dt>
+<dd class="org-page-details__definition-text t-14 t-black--light t-normal"><span class="link-without-visited-state" dir="ltr"><a href="https://ecorp.azcc.gov/BusinessSearch/BusinessInfo?entityNumber=L09762111">https://ecorp.azcc.gov/BusinessSearch/BusinessInfo?entityNumber=L09762111</a><a rel="noopener noreferrer" target="_blank" href="https://ecorp.azcc.gov/BusinessSearch/BusinessInfo?entityNumber=L09762111" id="ember362" class="link-without-visited-state ember-view" tabindex="0"></a></span></dd>
+</dl>
+<p class="align-right"><a href="https://lukemaze.github.io/lukemaze.github.io">Return to Home</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Digital Product Innovation</title>
         <author>
@@ -17,7 +46,7 @@
         <link href="https://lukemaze.github.io/lukemaze.github.io/digital-product-innovation.html"/>
         <id>https://lukemaze.github.io/lukemaze.github.io/digital-product-innovation.html</id>
 
-        <updated>2020-11-06T13:17:11-07:00</updated>
+        <updated>2020-11-08T20:14:45-07:00</updated>
             <summary>
                 <![CDATA[
                     The purpose of software is to make users AWESOME at what they do.
@@ -26,13 +55,13 @@
         <content type="html">
             <![CDATA[
                 <p>The purpose of software is to make users AWESOME at what they do.</p>
-<p> </p>
 <p><a href="http://www.innovateanddo.com/lukemaze">About Luke</a></p>
 <ul>
 <li>Two decades of Product Management wisdom</li>
 <li>Expert team facilitation</li>
 <li>Seasoned requirements elicitation</li>
 </ul>
+<p class="align-right"><a href="https://lukemaze.github.io/lukemaze.github.io">Return to Home</a></p>
             ]]>
         </content>
     </entry>
@@ -44,15 +73,15 @@
         <link href="https://lukemaze.github.io/lukemaze.github.io/hg-consulting-llc-or-innovateanddo.html"/>
         <id>https://lukemaze.github.io/lukemaze.github.io/hg-consulting-llc-or-innovateanddo.html</id>
 
-        <updated>2020-11-06T13:34:43-07:00</updated>
+        <updated>2020-11-08T20:14:22-07:00</updated>
             <summary>
                 <![CDATA[
-                    Build the right product. Build it right. And deliver as fast as possible.
+                    Build the right product. Build it right. And finish as fast as possible.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Build the right product.  Build it right.  And deliver as fast as possible.</p>
+                <p>Build the right product.  Build it right.  And finish as fast as possible.</p>
 <p><a href="https://www.innovateanddo.com/lukemaze" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">About Luke</a></p>
 <p>Develop high performance leaders, empower self-organized team innovation, and deliver measurable business value.  Championing a transformation from traditional Waterfall to Lean-Agile at scale.</p>
 <ul>
@@ -60,6 +89,7 @@
 <li>Kanban</li>
 <li>Scaled Agile Framework (SAFe)</li>
 </ul>
+<p class="align-right"><a href="https://lukemaze.github.io/lukemaze.github.io">Return to Home</a></p>
             ]]>
         </content>
     </entry>

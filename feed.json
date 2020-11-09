@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "HG Consulting, LLC | InnovateAndDo",
+    "title": "Better, faster, cheper – InnovateAndDo",
     "description": "",
     "home_page_url": "https://lukemaze.github.io/lukemaze.github.io",
     "feed_url": "https://lukemaze.github.io/lukemaze.github.io/feed.json",
@@ -11,32 +11,46 @@
     },
     "items": [
         {
+            "id": "https://lukemaze.github.io/lukemaze.github.io/hg-consulting-llc.html",
+            "url": "https://lukemaze.github.io/lukemaze.github.io/hg-consulting-llc.html",
+            "title": "HG Consulting, LLC",
+            "summary": "About Luke The brain of an engineer, the heart of a teacher, and&hellip;",
+            "content_html": "<p><a href=\"http://www.innovateanddo.com/lukemaze\">About Luke</a></p>\n<p class=\"break-words white-space-pre-wrap mb5 t-14 t-black--light t-normal\">The brain of an engineer, the heart of a teacher, and the gut of an entrepreneur.</p>\n<p>Since 2001, this Arizona Limited Liability Company (LLC) has been building relationships across industries, developing innovative products in-house, or advising enterprises to deliver their products &amp; services better-faster-cheaper. We help good technology, and good technology companies, become great. (And yes, all companies are technology companies today. Yours too!) But HG Consulting also knows that not all problems require a new technical solution. In fact, sometimes removing features has a larger impact than adding another! Sometimes just explaining \"why\"​ is the silver bullet.</p>\n<p>Good companies manage Engineering. Great companies manage Product.</p>\n<p>We deliver products and product delivery solutions that MAKE THE USER AWESOME at what they do because we provide elegant solutions to complex problems. Traditional systems (and traditional solutions) became complicated over time - many moving parts - but they still followed the rules - complicated systems are still predictable (a.k.a. deterministic). Today, however, systems and solutions have become COMPLEX, and there is a big difference! Traditional management of a new complex system just does not work because complex systems exhibit \"sensitive dependence on initial conditions,\"​ which means that they are no longer predictable.</p>\n<dl class=\"overflow-hidden\">\n<dt class=\"org-page-details__definition-term t-14 t-black t-bold\">Arizona State Corporation Comission</dt>\n<dd class=\"org-page-details__definition-text t-14 t-black--light t-normal\"><span class=\"link-without-visited-state\" dir=\"ltr\"><a href=\"https://ecorp.azcc.gov/BusinessSearch/BusinessInfo?entityNumber=L09762111\">https://ecorp.azcc.gov/BusinessSearch/BusinessInfo?entityNumber=L09762111</a><a rel=\"noopener noreferrer\" target=\"_blank\" href=\"https://ecorp.azcc.gov/BusinessSearch/BusinessInfo?entityNumber=L09762111\" id=\"ember362\" class=\"link-without-visited-state ember-view\" tabindex=\"0\"></a></span></dd>\n</dl>\n<p class=\"align-right\"><a href=\"https://lukemaze.github.io/lukemaze.github.io\">Return to Home</a></p>",
+            "author": {
+                "name": "Luke Maze"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-11-08T21:04:08-07:00",
+            "date_modified": "2020-11-08T21:10:12-07:00"
+        },
+        {
             "id": "https://lukemaze.github.io/lukemaze.github.io/digital-product-innovation.html",
             "url": "https://lukemaze.github.io/lukemaze.github.io/digital-product-innovation.html",
             "title": "Digital Product Innovation",
             "summary": "The purpose of software is to make users AWESOME at what they do.",
-            "content_html": "<p>The purpose of software is to make users AWESOME at what they do.</p>\n<p> </p>\n<p><a href=\"http://www.innovateanddo.com/lukemaze\">About Luke</a></p>\n<ul>\n<li>Two decades of Product Management wisdom</li>\n<li>Expert team facilitation</li>\n<li>Seasoned requirements elicitation</li>\n</ul>",
+            "content_html": "<p>The purpose of software is to make users AWESOME at what they do.</p>\n<p><a href=\"http://www.innovateanddo.com/lukemaze\">About Luke</a></p>\n<ul>\n<li>Two decades of Product Management wisdom</li>\n<li>Expert team facilitation</li>\n<li>Seasoned requirements elicitation</li>\n</ul>\n<p class=\"align-right\"><a href=\"https://lukemaze.github.io/lukemaze.github.io\">Return to Home</a></p>",
             "author": {
                 "name": "Luke Maze"
             },
             "tags": [
             ],
             "date_published": "2020-11-05T20:25:30-07:00",
-            "date_modified": "2020-11-06T13:17:11-07:00"
+            "date_modified": "2020-11-08T20:14:45-07:00"
         },
         {
             "id": "https://lukemaze.github.io/lukemaze.github.io/hg-consulting-llc-or-innovateanddo.html",
             "url": "https://lukemaze.github.io/lukemaze.github.io/hg-consulting-llc-or-innovateanddo.html",
             "title": "Lean-Agile Value Delivery",
-            "summary": "Build the right product. Build it right. And deliver as fast as possible.",
-            "content_html": "<p>Build the right product.  Build it right.  And deliver as fast as possible.</p>\n<p><a href=\"https://www.innovateanddo.com/lukemaze\" style=\"font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);\">About Luke</a></p>\n<p>Develop high performance leaders, empower self-organized team innovation, and deliver measurable business value.  Championing a transformation from traditional Waterfall to Lean-Agile at scale.</p>\n<ul>\n<li>Scrum</li>\n<li>Kanban</li>\n<li>Scaled Agile Framework (SAFe)</li>\n</ul>",
+            "summary": "Build the right product. Build it right. And finish as fast as possible.",
+            "content_html": "<p>Build the right product.  Build it right.  And finish as fast as possible.</p>\n<p><a href=\"https://www.innovateanddo.com/lukemaze\" style=\"font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);\">About Luke</a></p>\n<p>Develop high performance leaders, empower self-organized team innovation, and deliver measurable business value.  Championing a transformation from traditional Waterfall to Lean-Agile at scale.</p>\n<ul>\n<li>Scrum</li>\n<li>Kanban</li>\n<li>Scaled Agile Framework (SAFe)</li>\n</ul>\n<p class=\"align-right\"><a href=\"https://lukemaze.github.io/lukemaze.github.io\">Return to Home</a></p>",
             "author": {
                 "name": "Luke Maze"
             },
             "tags": [
             ],
             "date_published": "2020-11-05T19:52:53-07:00",
-            "date_modified": "2020-11-06T13:34:43-07:00"
+            "date_modified": "2020-11-08T20:14:22-07:00"
         }
     ]
 }
