@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Better, faster, cheper – InnovateAndDo</title>
-    <link href="https://lukemaze.github.io/lukemaze.github.io/feed.xml" rel="self" />
-    <link href="https://lukemaze.github.io/lukemaze.github.io" />
+    <link href="https://www.innovateanddo.com/feed.xml" rel="self" />
+    <link href="https://www.innovateanddo.com" />
     <updated>2020-11-08T21:10:12-07:00</updated>
     <author>
         <name>Luke Maze</name>
     </author>
-    <id>https://lukemaze.github.io/lukemaze.github.io</id>
+    <id>https://www.innovateanddo.com</id>
 
     <entry>
         <title>HG Consulting, LLC</title>
         <author>
             <name>Luke Maze</name>
         </author>
-        <link href="https://lukemaze.github.io/lukemaze.github.io/hg-consulting-llc.html"/>
-        <id>https://lukemaze.github.io/lukemaze.github.io/hg-consulting-llc.html</id>
+        <link href="https://www.innovateanddo.com/hg-consulting-llc/"/>
+        <id>https://www.innovateanddo.com/hg-consulting-llc/</id>
 
         <updated>2020-11-08T21:10:12-07:00</updated>
             <summary>
@@ -34,7 +34,7 @@
 <dt class="org-page-details__definition-term t-14 t-black t-bold">Arizona State Corporation Comission</dt>
 <dd class="org-page-details__definition-text t-14 t-black--light t-normal"><span class="link-without-visited-state" dir="ltr"><a href="https://ecorp.azcc.gov/BusinessSearch/BusinessInfo?entityNumber=L09762111">https://ecorp.azcc.gov/BusinessSearch/BusinessInfo?entityNumber=L09762111</a><a rel="noopener noreferrer" target="_blank" href="https://ecorp.azcc.gov/BusinessSearch/BusinessInfo?entityNumber=L09762111" id="ember362" class="link-without-visited-state ember-view" tabindex="0"></a></span></dd>
 </dl>
-<p class="align-right"><a href="https://lukemaze.github.io/lukemaze.github.io">Return to Home</a></p>
+<p class="align-right"><a href="https://www.innovateanddo.com">Return to Home</a></p>
             ]]>
         </content>
     </entry>
@@ -43,8 +43,8 @@
         <author>
             <name>Luke Maze</name>
         </author>
-        <link href="https://lukemaze.github.io/lukemaze.github.io/digital-product-innovation.html"/>
-        <id>https://lukemaze.github.io/lukemaze.github.io/digital-product-innovation.html</id>
+        <link href="https://www.innovateanddo.com/digital-product-innovation/"/>
+        <id>https://www.innovateanddo.com/digital-product-innovation/</id>
 
         <updated>2020-11-08T20:14:45-07:00</updated>
             <summary>
@@ -61,7 +61,7 @@
 <li>Expert team facilitation</li>
 <li>Seasoned requirements elicitation</li>
 </ul>
-<p class="align-right"><a href="https://lukemaze.github.io/lukemaze.github.io">Return to Home</a></p>
+<p class="align-right"><a href="https://www.innovateanddo.com">Return to Home</a></p>
             ]]>
         </content>
     </entry>
@@ -70,8 +70,8 @@
         <author>
             <name>Luke Maze</name>
         </author>
-        <link href="https://lukemaze.github.io/lukemaze.github.io/hg-consulting-llc-or-innovateanddo.html"/>
-        <id>https://lukemaze.github.io/lukemaze.github.io/hg-consulting-llc-or-innovateanddo.html</id>
+        <link href="https://www.innovateanddo.com/hg-consulting-llc-or-innovateanddo/"/>
+        <id>https://www.innovateanddo.com/hg-consulting-llc-or-innovateanddo/</id>
 
         <updated>2020-11-08T20:14:22-07:00</updated>
             <summary>
@@ -89,7 +89,7 @@
 <li>Kanban</li>
 <li>Scaled Agile Framework (SAFe)</li>
 </ul>
-<p class="align-right"><a href="https://lukemaze.github.io/lukemaze.github.io">Return to Home</a></p>
+<p class="align-right"><a href="https://www.innovateanddo.com">Return to Home</a></p>
             ]]>
         </content>
     </entry>
