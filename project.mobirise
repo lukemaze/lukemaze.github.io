@@ -261,11 +261,11 @@
       }
     ],
     "uniqCompNum": 5,
-    "imageResize": false,
+    "imageResize": true,
     "imageSearchQuery": "consulting",
     "screenshot": "screenshot.png",
     "favicon": false,
-    "mbrsiteDomain": "5lkkqkjngr",
+    "mbrsiteDomain": "cbuhnyai6y",
     "usedWebp": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
